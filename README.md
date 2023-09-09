@@ -7,6 +7,7 @@ I am a full-stack software engineer whose chief goal is to build web solutions t
 -Express
 -React
 -MongoDB
+-PostgreSQL
 
 ## Favorite Coffee Brewing Method
 Pourover using Gino Dripper and 1ZPresso JXPro Grinder:
