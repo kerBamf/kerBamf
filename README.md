@@ -7,6 +7,8 @@ I am a full-stack software engineer whose chief goal is to build web solutions t
 -Express
 -React
 -MongoDB
+-Python
+-Django
 -PostgreSQL
 
 ## Favorite Coffee Brewing Method
